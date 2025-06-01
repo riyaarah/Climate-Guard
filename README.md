@@ -21,7 +21,7 @@ This repository contains the agent implementation for ClimateGuard to be deploye
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/climateguard.git
+git clone https://github.com/riyaarah/Climate-Guard.git
 cd climateguard
 ```
 
